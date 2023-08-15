@@ -1,0 +1,6 @@
+{{#user}
+Name: Rahul Singh
+Skills: HTML CSS JS REACT 
+Email: rrrsingh58@gmail.com
+{{/user}}
+ 
